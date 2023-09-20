@@ -24,7 +24,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Prince coder</h1>
+        <h1>Sistema de Cadastro</h1>
         <ul>
           <li>
             <a href="#">Home</a>
